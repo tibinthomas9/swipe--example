@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "049735B51E825FBB005AA30B"
-               BuildableName = "SwipeExample.app"
-               BlueprintName = "SwipeExample"
-               ReferencedContainer = "container:SwipeExample.xcodeproj">
+               BlueprintIdentifier = "206984912C73A6505DD7B3AF566036EB"
+               BuildableName = "Pods_SwipeExample.framework"
+               BlueprintName = "Pods-SwipeExample"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "049735B51E825FBB005AA30B"
-            BuildableName = "SwipeExample.app"
-            BlueprintName = "SwipeExample"
-            ReferencedContainer = "container:SwipeExample.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "049735B51E825FBB005AA30B"
-            BuildableName = "SwipeExample.app"
-            BlueprintName = "SwipeExample"
-            ReferencedContainer = "container:SwipeExample.xcodeproj">
+            BlueprintIdentifier = "206984912C73A6505DD7B3AF566036EB"
+            BuildableName = "Pods_SwipeExample.framework"
+            BlueprintName = "Pods-SwipeExample"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "049735B51E825FBB005AA30B"
-            BuildableName = "SwipeExample.app"
-            BlueprintName = "SwipeExample"
-            ReferencedContainer = "container:SwipeExample.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

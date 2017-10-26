@@ -4,15 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SwipeExample.xcscheme</key>
+		<key>PageMenu.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SwipeExample.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>049735B51E825FBB005AA30B</key>
+		<key>206984912C73A6505DD7B3AF566036EB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C993B0817AADA61E687ACB1D316FC93E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
